@@ -44,3 +44,7 @@ now
 The example shows how you can use [TypeScript](https://typescriptlang.com) on both the server and the client while using [Nodemon](https://nodemon.io/) to live reload the server code without affecting the Next.js universal code.
 Server entry point is `server/index.ts` in development and `production-server/index.js` in production.
 The second directory should be added to `.gitignore`.
+
+# Youtube Video (En Français)
+
+[![Youtube Video (En Français)](https://i9.ytimg.com/vi/Qt7IGuHn99M/mq3.jpg?sqp=CJzu4O4F&rs=AOn4CLCuWG7fcRYzuLGHnXH0Esb7LWu90w)](https://youtu.be/Qt7IGuHn99M)
